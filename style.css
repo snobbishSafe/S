@@ -1,0 +1,30 @@
+
+element {
+	width: 1280px;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #222222;
+	color:#AFAFAF;
+	font-family: "Verdana";
+}
+
+button{
+	background-color: #222222;
+	border: none;
+}
+.content{
+	background-color: white;
+}
+.advantages{
+	background-color: #191919;
+    color:#d4d4d4;
+}
+.advantages div{
+    width:140px;
+	
+}
+footer{
+	background-color: #191919;
+}
